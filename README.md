@@ -38,17 +38,17 @@
 
 ## 📊 Statistiques GitHub
 
-![Statistiques GitHub de YACIN-DEV-100](https://github-readme-stats.shion.dev/api?username=YACIN-DEV-100&theme=dark&hide_border=true&include_all_commits=true)<br/>
+<!-- Instances officielles, gratuites, hébergées par les auteurs des projets open source -->
+![Statistiques GitHub de YACIN-DEV-100](https://github-readme-stats.vercel.app/api?username=YACIN-DEV-100&theme=dark&hide_border=true&include_all_commits=true)<br/>
 ![Streak GitHub de YACIN-DEV-100](https://streak-stats.demolab.com/?user=YACIN-DEV-100&theme=dark&hide_border=true)<br/>
-![Langages les plus utilisés par YACIN-DEV-100](https://github-readme-stats.shion.dev/api/top-langs/?username=YACIN-DEV-100&theme=dark&hide_border=true&include_all_commits=true&layout=compact)
+![Langages les plus utilisés par YACIN-DEV-100](https://github-readme-stats.vercel.app/api/top-langs/?username=YACIN-DEV-100&theme=dark&hide_border=true&include_all_commits=true&layout=compact)
 
 ## 🏆 Trophées GitHub
 
 ![Trophées GitHub de YACIN-DEV-100](https://github-profile-trophy.vercel.app/?username=YACIN-DEV-100&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Dépôt le plus contribué
-
-![Dépôt le plus contribué par YACIN-DEV-100](https://github-contributor-stats.vercel.app/api?username=YACIN-DEV-100&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- "Dépôt le plus contribué" retiré : reposait sur un widget tiers sans instance officielle.
+     Utilise plutôt les "Pinned repositories" natives de GitHub (Profil > Customize your pins). -->
 
 ---
 
